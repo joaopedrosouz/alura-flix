@@ -2,10 +2,14 @@ body{
     background-color: aquamarine;
     color:rgb(49, 151, 150);
     font-family: "Arimo", sans-serif;
+    margin: 0px;
 }
 header{
     font-size: 50px;
-    border:double  rgb(49, 151, 120)
+    border: double;  rgb(49, 151, 150);
+    text-align: center;
+   /* margin: 30px;*/
+   padding: 7px;
 }
 h1{
     font-size: 40px;
