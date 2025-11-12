@@ -10,10 +10,19 @@ header{
     text-align: center;
    /* margin: 30px;*/
    padding: 7px;
+color: rgb(44, 143, 143);
 }
 h1{
     font-size: 40px;
 }
 p{
     font-size: 30px;
+}
+
+section{
+background-color: rgb(44, 143, 110);
+padding-bottom: 80px;
+display: flex;
+justify-content: center;
+
 }
