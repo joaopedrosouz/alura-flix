@@ -1,6 +1,6 @@
 body{
     background-color: aquamarine;
-    color:rgb(49, 151, 150);
+    color:rgb(44, 143, 143);
     font-family: "Arimo", sans-serif;
     margin: 0px;
 }
@@ -20,7 +20,7 @@ p{
 }
 
 section{
-background-color: rgb(44, 143, 110);
+background-color: rgb(98, 255, 205);
 padding-bottom: 80px;
 display: flex;
 justify-content: center;
